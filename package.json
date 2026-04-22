@@ -27,14 +27,9 @@
     "eslint-plugin-vue": "^9.32.0",
     "lint-staged": "^15.4.3",
     "pre-commit": "^1.2.2",
-    "rollup": "^4.59.0",
     "sass": "^1.85.0",
     "vue": "3.4.13",
     "vue-tsc": "^2.2.2"
-  },
-  "optionalDependencies": {
-    "@rollup/rollup-linux-x64-gnu": "^4.34.8",
-    "@rollup/rollup-win32-x64-msvc": "^4.40.0"
   },
   "repository": {
     "type": "git",

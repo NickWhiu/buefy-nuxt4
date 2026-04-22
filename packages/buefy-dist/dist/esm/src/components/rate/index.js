@@ -1,0 +1,1 @@
+var a="../../../Rate-93cq5q8v.vue";var l=(e,t,s)=>{let i=s||t.name;if(i==null)throw Error("Buefy.registerComponent: missing component name");e.component(i,t)},n=(e,t,s,i)=>{if(!e.config.globalProperties.$buefy)e.config.globalProperties.$buefy={};e.config.globalProperties.$buefy[t]=s,e.provide(i,s)};var o={install(e){l(e,a)}},p=o;export{p as default,a as BRate};

@@ -1,0 +1,1 @@
+var s="../../../Numberinput-ak7mtdxn.vue";var o=(e,t,n)=>{let i=n||t.name;if(i==null)throw Error("Buefy.registerComponent: missing component name");e.component(i,t)},a=(e,t,n,i)=>{if(!e.config.globalProperties.$buefy)e.config.globalProperties.$buefy={};e.config.globalProperties.$buefy[t]=n,e.provide(i,n)};var r={install(e){o(e,s)}},h=r;export{h as default,s as BNumberinput};

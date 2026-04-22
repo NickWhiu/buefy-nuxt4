@@ -1,0 +1,1 @@
+var l="../../../Field-s0960q7b.vue";var a=(e,s,t)=>{let i=t||s.name;if(i==null)throw Error("Buefy.registerComponent: missing component name");e.component(i,s)},d=(e,s,t,i)=>{if(!e.config.globalProperties.$buefy)e.config.globalProperties.$buefy={};e.config.globalProperties.$buefy[s]=t,e.provide(i,t)};var o={install(e){a(e,l)}},g=o;export{g as default,l as BField};

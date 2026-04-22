@@ -1,0 +1,42 @@
+{
+  "name": "@nickwhiu/buefy-nuxt4",
+  "version": "4.0.0",
+  "description": "Lightweight UI components for Vue.js (v3) based on Bulma - this ia fork based on bun with essential bugfixes not in official repo",
+  "keywords": [
+    "vuejs",
+    "bulma",
+    "buefy",
+    "nodejs",
+    "components-library",
+    "open-source",
+    "css",
+    "scss",
+    "typescript"
+  ],
+  "homepage": "https://buefy.org",
+  "license": "MIT",
+  "main": "dist/cjs/src/index.js",
+  "module": "dist/esm/src/index.js",
+  "unpkg": "dist/esm/src/index.js",
+  "typings": "dist/buefy.d.ts",
+  "sideEffects": [
+    "*.css",
+    "*.scss"
+  ],
+  "files": [
+    "dist"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/buefy/buefy.git"
+  },
+  "bugs": {
+    "url": "https://github.com/buefy/buefy/issues"
+  },
+  "dependencies": {
+    "bulma": "^1.0.4"
+  },
+  "peerDependencies": {
+    "vue": "^3.0.0"
+  }
+}

@@ -1,0 +1,1 @@
+var n="../../../Autocomplete-qf0z0yrc.vue";var s=(e,t,i)=>{let o=i||t.name;if(o==null)throw Error("Buefy.registerComponent: missing component name");e.component(o,t)},d=(e,t,i,o)=>{if(!e.config.globalProperties.$buefy)e.config.globalProperties.$buefy={};e.config.globalProperties.$buefy[t]=i,e.provide(o,i)};var r={install(e){s(e,n)}},f=r;export{f as default,n as BAutocomplete};

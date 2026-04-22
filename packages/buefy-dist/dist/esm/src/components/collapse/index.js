@@ -1,0 +1,1 @@
+var o="../../../Collapse-mdqnka64.vue";var l=(t,e,i)=>{let s=i||e.name;if(s==null)throw Error("Buefy.registerComponent: missing component name");t.component(s,e)},p=(t,e,i,s)=>{if(!t.config.globalProperties.$buefy)t.config.globalProperties.$buefy={};t.config.globalProperties.$buefy[e]=i,t.provide(s,i)};var a={install(t){l(t,o)}},m=a;export{m as default,o as BCollapse};

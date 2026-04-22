@@ -1,0 +1,1 @@
+var c="../../../Clockpicker-5q6pqz73.vue";var r=(e,i,t)=>{let l=t||i.name;if(l==null)throw Error("Buefy.registerComponent: missing component name");e.component(l,i)},a=(e,i,t,l)=>{if(!e.config.globalProperties.$buefy)e.config.globalProperties.$buefy={};e.config.globalProperties.$buefy[i]=t,e.provide(l,t)};var n={install(e){r(e,c)}},k=n;export{k as default,c as BClockpicker};

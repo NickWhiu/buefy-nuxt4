@@ -1,0 +1,1 @@
+var s="../../../Select-qr4jz68h.vue";var a=(e,t,l)=>{let i=l||t.name;if(i==null)throw Error("Buefy.registerComponent: missing component name");e.component(i,t)},d=(e,t,l,i)=>{if(!e.config.globalProperties.$buefy)e.config.globalProperties.$buefy={};e.config.globalProperties.$buefy[t]=l,e.provide(i,l)};var n={install(e){a(e,s)}},h=n;export{h as default,s as BSelect};

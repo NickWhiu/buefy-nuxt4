@@ -1,0 +1,1 @@
+var o="../../../Taginput-jftp0kjc.vue";var i=(e,t,a)=>{let s=a||t.name;if(s==null)throw Error("Buefy.registerComponent: missing component name");e.component(s,t)},p=(e,t,a,s)=>{if(!e.config.globalProperties.$buefy)e.config.globalProperties.$buefy={};e.config.globalProperties.$buefy[t]=a,e.provide(s,a)};var l={install(e){i(e,o)}},f=l;export{f as default,o as BTaginput};

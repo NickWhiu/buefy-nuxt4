@@ -1,0 +1,1 @@
+var o="../../../Tooltip-92ndmqn1.vue";var n=(t,e,i)=>{let s=i||e.name;if(s==null)throw Error("Buefy.registerComponent: missing component name");t.component(s,e)},d=(t,e,i,s)=>{if(!t.config.globalProperties.$buefy)t.config.globalProperties.$buefy={};t.config.globalProperties.$buefy[e]=i,t.provide(s,i)};var r={install(t){n(t,o)}},f=r;export{f as default,o as BTooltip};

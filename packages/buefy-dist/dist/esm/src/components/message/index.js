@@ -1,0 +1,1 @@
+var t="../../../Message-d71gf391.vue";var r=(s,e,a)=>{let i=a||e.name;if(i==null)throw Error("Buefy.registerComponent: missing component name");s.component(i,e)},c=(s,e,a,i)=>{if(!s.config.globalProperties.$buefy)s.config.globalProperties.$buefy={};s.config.globalProperties.$buefy[e]=a,s.provide(i,a)};var l={install(s){r(s,t)}},v=l;export{v as default,t as BMessage};

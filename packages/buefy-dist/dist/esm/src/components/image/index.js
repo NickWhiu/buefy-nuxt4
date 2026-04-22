@@ -1,0 +1,1 @@
+var r="../../../Image-am87e5wn.vue";var a=(e,t,s)=>{let i=s||t.name;if(i==null)throw Error("Buefy.registerComponent: missing component name");e.component(i,t)},p=(e,t,s,i)=>{if(!e.config.globalProperties.$buefy)e.config.globalProperties.$buefy={};e.config.globalProperties.$buefy[t]=s,e.provide(i,s)};var o={install(e){a(e,r)}},f=o;export{f as default,r as BImage};

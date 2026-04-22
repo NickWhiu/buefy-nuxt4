@@ -1,0 +1,1 @@
+var a="../../../Upload-c631rz1r.vue";var s=(e,t,l)=>{let i=l||t.name;if(i==null)throw Error("Buefy.registerComponent: missing component name");e.component(i,t)},p=(e,t,l,i)=>{if(!e.config.globalProperties.$buefy)e.config.globalProperties.$buefy={};e.config.globalProperties.$buefy[t]=l,e.provide(i,l)};var n={install(e){s(e,a)}},c=n;export{c as default,a as BUpload};

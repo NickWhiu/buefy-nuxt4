@@ -1,0 +1,1 @@
+var n="../../../Input-9tjp0z3z.vue";var a=(e,t,i)=>{let s=i||t.name;if(s==null)throw Error("Buefy.registerComponent: missing component name");e.component(s,t)},c=(e,t,i,s)=>{if(!e.config.globalProperties.$buefy)e.config.globalProperties.$buefy={};e.config.globalProperties.$buefy[t]=i,e.provide(s,i)};var l={install(e){a(e,n)}},m=l;export{m as default,n as BInput};

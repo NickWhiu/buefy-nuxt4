@@ -1,0 +1,1 @@
+var n="../../../Button-y4mrdcvx.vue";var s=(t,e,i)=>{let o=i||e.name;if(o==null)throw Error("Buefy.registerComponent: missing component name");t.component(o,e)},l=(t,e,i,o)=>{if(!t.config.globalProperties.$buefy)t.config.globalProperties.$buefy={};t.config.globalProperties.$buefy[e]=i,t.provide(o,i)};var r={install(t){s(t,n)}},g=r;export{g as default,n as BButton};

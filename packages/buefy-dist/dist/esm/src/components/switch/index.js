@@ -1,0 +1,1 @@
+var s="../../../Switch-cc7hxc8d.vue";var i=(e,t,a)=>{let l=a||t.name;if(l==null)throw Error("Buefy.registerComponent: missing component name");e.component(l,t)},u=(e,t,a,l)=>{if(!e.config.globalProperties.$buefy)e.config.globalProperties.$buefy={};e.config.globalProperties.$buefy[t]=a,e.provide(l,a)};var r={install(e){i(e,s)}},h=r;export{h as default,s as BSwitch};

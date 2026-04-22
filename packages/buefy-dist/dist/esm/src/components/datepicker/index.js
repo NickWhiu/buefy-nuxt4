@@ -1,0 +1,1 @@
+var r="../../../Datepicker-77npt5m6.vue";var i=(e,t,a)=>{let n=a||t.name;if(n==null)throw Error("Buefy.registerComponent: missing component name");e.component(n,t)},d=(e,t,a,n)=>{if(!e.config.globalProperties.$buefy)e.config.globalProperties.$buefy={};e.config.globalProperties.$buefy[t]=a,e.provide(n,a)};var s={install(e){i(e,r)}},m=s;export{m as default,r as BDatepicker};

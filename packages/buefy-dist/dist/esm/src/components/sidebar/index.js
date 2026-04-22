@@ -1,0 +1,1 @@
+var l="../../../Sidebar-azn5sbh8.vue";var o=(e,t,i)=>{let s=i||t.name;if(s==null)throw Error("Buefy.registerComponent: missing component name");e.component(s,t)},d=(e,t,i,s)=>{if(!e.config.globalProperties.$buefy)e.config.globalProperties.$buefy={};e.config.globalProperties.$buefy[t]=i,e.provide(s,i)};var a={install(e){o(e,l)}},f=a;export{f as default,l as BSidebar};

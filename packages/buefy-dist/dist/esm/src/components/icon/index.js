@@ -1,0 +1,1 @@
+var s="../../../Icon-6tqs5jea.vue";var o=(t,n,i)=>{let e=i||n.name;if(e==null)throw Error("Buefy.registerComponent: missing component name");t.component(e,n)},l=(t,n,i,e)=>{if(!t.config.globalProperties.$buefy)t.config.globalProperties.$buefy={};t.config.globalProperties.$buefy[n]=i,t.provide(e,i)};var a={install(t){o(t,s)}},g=a;export{g as default,s as BIcon};

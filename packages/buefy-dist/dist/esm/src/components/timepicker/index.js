@@ -1,0 +1,1 @@
+var n="../../../Timepicker-hzepgvk9.vue";var l=(e,i,o)=>{let d=o||i.name;if(d==null)throw Error("Buefy.registerComponent: missing component name");e.component(d,i)},s=(e,i,o,d)=>{if(!e.config.globalProperties.$buefy)e.config.globalProperties.$buefy={};e.config.globalProperties.$buefy[i]=o,e.provide(d,o)};var a={install(e){l(e,n)}},f=a;export{f as default,n as BTimepicker};

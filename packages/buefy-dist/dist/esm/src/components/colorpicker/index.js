@@ -1,0 +1,1 @@
+var l="../../../Colorpicker-q0ep4g38.vue";var a=(e,o,t)=>{let r=t||o.name;if(r==null)throw Error("Buefy.registerComponent: missing component name");e.component(r,o)},s=(e,o,t,r)=>{if(!e.config.globalProperties.$buefy)e.config.globalProperties.$buefy={};e.config.globalProperties.$buefy[o]=t,e.provide(r,t)};var n={install(e){a(e,l)}},f=n;export{f as default,l as BColorpicker};
